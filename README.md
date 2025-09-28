@@ -1,10 +1,16 @@
-<h2 align="left">Hello my friendes,</h2>
+<h2 align="center">Hello my friendes, 👋 </h2>
+
+
 
 ###
-<p align="left">Follow me on social media</p>
+
+<h1 align="center">My name is Abdelrahman Adnan and I'm a Frontend developer.</h1>
+###
+
+<p align="center">Follow me on social media</p>
 
 ###
-<div align="left">
+<div align="center">
   <a href="www.linkedin.com/in/abdelrahman-adnan-9b793219b" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -19,13 +25,10 @@
   </a>
 </div>
 
-###
-
-<h1 align="left">My name is Abdelrahman Adnan and I'm a Frontend developer.</h1>
 
 ###
 
-<h2 align="left">• From Egypt, Cairo<br>• Building Useful Websites</h2>
+<h2 align="center">• From Egypt, Cairo<br>• Building Useful Websites</h2>
 
 ###
 
@@ -37,7 +40,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -65,7 +68,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
