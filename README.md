@@ -59,7 +59,7 @@
 
 ###
 
-<p align="left">•  Currently Learning</p>
+<h4 align="left">•  Currently Learning</h4>
 
 ###
 
