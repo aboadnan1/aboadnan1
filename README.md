@@ -27,7 +27,7 @@
 
 ###
 
-<h2 align="center">• From Egypt, Cairo<br>• Building Useful Websites</h2>
+<h2 align="center">• From Egypt, Cairo<br>• Building Usefull Websites</h2>
 
 ###
 
