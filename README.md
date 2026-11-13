@@ -63,6 +63,8 @@
 
 ###
 
+<h2 align="left"></h2>
+
 <h4 align="left">•  Currently Learning</h4>
 
 ###
